@@ -1,2 +1,2 @@
 # DataScience
-Data Science Repository
+Data Science Repository used for Coursera Projects
